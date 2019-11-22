@@ -1,3 +1,3 @@
 exports.printMsg = function() {
-    console.log("Visit http://photography.ramswaroop.me for a treat!");
+    console.log("Can pigeons look behind when they fly?");
 };
