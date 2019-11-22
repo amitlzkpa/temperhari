@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://temperhari.me"
+baseurl: "http://temperhari.me"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
@@ -15,7 +15,7 @@ footer:
  name: "Hey there, my name is Narahari"
  bio: "I am not a fish."
  github: ""
-web_design: "AJ"
+web_design: "Ram Patra"
 social_urls:
   facebook: ""
   twitter: ""
